@@ -47,6 +47,6 @@ https://shankarnath06.github.io/swift-ship-track/
 
 ## Author
 
-Your Shankarnath R, 
+Your Yogesh S,
 st.joseph college of engineering, 
 Information Technology
